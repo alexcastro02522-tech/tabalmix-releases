@@ -1,0 +1,5 @@
+﻿{
+  "versao": "1.0.3",
+  "url_instalador": "https://github.com/alexcastro02522-tech/tabalmix-releases/releases/latest/download/Instalador_Tabalmix_ERP.exe",
+  "notas": "Janela 100% nativa WebView2 com Splash Screen esmeralda e interface white-label."
+}
